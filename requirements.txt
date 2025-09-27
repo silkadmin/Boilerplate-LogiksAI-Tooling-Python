@@ -1,0 +1,13 @@
+asyncio
+exa-py
+fastapi
+websockets
+python-socketio[client]
+forex_python
+gradio_tools 
+pandas
+PyGithub
+python-dotenv
+tabulate
+uvicorn
+wikipedia
